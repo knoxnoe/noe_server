@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.FyHistoryMoneyTemp;
 import com.noe.mapper.FyHistoryMoneyTempMapper;
-import com.noe.service.FyHistoryMoneyTempService;
+import com.noe.service.base.FyHistoryMoneyTempService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

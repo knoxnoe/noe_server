@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.FcCell;
 import com.noe.mapper.FcCellMapper;
-import com.noe.service.FcCellService;
+import com.noe.service.base.FcCellService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

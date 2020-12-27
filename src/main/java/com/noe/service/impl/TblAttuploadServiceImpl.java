@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.TblAttupload;
 import com.noe.mapper.TblAttuploadMapper;
-import com.noe.service.TblAttuploadService;
+import com.noe.service.base.TblAttuploadService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

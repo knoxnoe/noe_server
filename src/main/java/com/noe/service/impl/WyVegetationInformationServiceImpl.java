@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.WyVegetationInformation;
 import com.noe.mapper.WyVegetationInformationMapper;
-import com.noe.service.WyVegetationInformationService;
+import com.noe.service.base.WyVegetationInformationService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

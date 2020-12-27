@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.WyCommitteeMembers;
 import com.noe.mapper.WyCommitteeMembersMapper;
-import com.noe.service.WyCommitteeMembersService;
+import com.noe.service.base.WyCommitteeMembersService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.WyVisitManage;
 import com.noe.mapper.WyVisitManageMapper;
-import com.noe.service.WyVisitManageService;
+import com.noe.service.base.WyVisitManageService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

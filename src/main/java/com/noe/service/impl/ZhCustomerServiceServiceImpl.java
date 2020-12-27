@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.ZhCustomerService;
 import com.noe.mapper.ZhCustomerServiceMapper;
-import com.noe.service.ZhCustomerServiceService;
+import com.noe.service.base.ZhCustomerServiceService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

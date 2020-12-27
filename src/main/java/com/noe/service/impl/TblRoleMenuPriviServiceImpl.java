@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.TblRoleMenuPrivi;
 import com.noe.mapper.TblRoleMenuPriviMapper;
-import com.noe.service.TblRoleMenuPriviService;
+import com.noe.service.base.TblRoleMenuPriviService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

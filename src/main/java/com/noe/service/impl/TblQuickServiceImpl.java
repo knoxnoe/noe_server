@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.TblQuick;
 import com.noe.mapper.TblQuickMapper;
-import com.noe.service.TblQuickService;
+import com.noe.service.base.TblQuickService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.ZhRentShare;
 import com.noe.mapper.ZhRentShareMapper;
-import com.noe.service.ZhRentShareService;
+import com.noe.service.base.ZhRentShareService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

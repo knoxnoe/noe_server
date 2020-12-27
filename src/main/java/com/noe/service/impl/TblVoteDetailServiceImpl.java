@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.TblVoteDetail;
 import com.noe.mapper.TblVoteDetailMapper;
-import com.noe.service.TblVoteDetailService;
+import com.noe.service.base.TblVoteDetailService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

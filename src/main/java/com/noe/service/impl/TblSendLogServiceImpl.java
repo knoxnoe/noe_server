@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.TblSendLog;
 import com.noe.mapper.TblSendLogMapper;
-import com.noe.service.TblSendLogService;
+import com.noe.service.base.TblSendLogService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

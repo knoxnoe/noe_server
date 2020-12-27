@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.TblMyNote;
 import com.noe.mapper.TblMyNoteMapper;
-import com.noe.service.TblMyNoteService;
+import com.noe.service.base.TblMyNoteService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

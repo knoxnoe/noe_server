@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.TblMyset;
 import com.noe.mapper.TblMysetMapper;
-import com.noe.service.TblMysetService;
+import com.noe.service.base.TblMysetService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

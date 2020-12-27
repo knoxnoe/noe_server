@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.FySaleContract;
 import com.noe.mapper.FySaleContractMapper;
-import com.noe.service.FySaleContractService;
+import com.noe.service.base.FySaleContractService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

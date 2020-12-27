@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.TblDbSetting;
 import com.noe.mapper.TblDbSettingMapper;
-import com.noe.service.TblDbSettingService;
+import com.noe.service.base.TblDbSettingService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

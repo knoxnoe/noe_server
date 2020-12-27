@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.TblPositionRecord;
 import com.noe.mapper.TblPositionRecordMapper;
-import com.noe.service.TblPositionRecordService;
+import com.noe.service.base.TblPositionRecordService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

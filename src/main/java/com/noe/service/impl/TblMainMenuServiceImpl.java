@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.TblMainMenu;
 import com.noe.mapper.TblMainMenuMapper;
-import com.noe.service.TblMainMenuService;
+import com.noe.service.base.TblMainMenuService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

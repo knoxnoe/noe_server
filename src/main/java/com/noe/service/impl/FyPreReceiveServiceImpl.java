@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.FyPreReceive;
 import com.noe.mapper.FyPreReceiveMapper;
-import com.noe.service.FyPreReceiveService;
+import com.noe.service.base.FyPreReceiveService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

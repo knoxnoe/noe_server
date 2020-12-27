@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.TblMyadvice;
 import com.noe.mapper.TblMyadviceMapper;
-import com.noe.service.TblMyadviceService;
+import com.noe.service.base.TblMyadviceService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

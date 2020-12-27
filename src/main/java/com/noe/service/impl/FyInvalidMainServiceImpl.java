@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.FyInvalidMain;
 import com.noe.mapper.FyInvalidMainMapper;
-import com.noe.service.FyInvalidMainService;
+import com.noe.service.base.FyInvalidMainService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

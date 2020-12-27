@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.FyRefundMain;
 import com.noe.mapper.FyRefundMainMapper;
-import com.noe.service.FyRefundMainService;
+import com.noe.service.base.FyRefundMainService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

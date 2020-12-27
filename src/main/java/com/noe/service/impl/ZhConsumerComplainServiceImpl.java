@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.ZhConsumerComplain;
 import com.noe.mapper.ZhConsumerComplainMapper;
-import com.noe.service.ZhConsumerComplainService;
+import com.noe.service.base.ZhConsumerComplainService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

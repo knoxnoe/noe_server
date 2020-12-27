@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.WyTakeoverDataDetail;
 import com.noe.mapper.WyTakeoverDataDetailMapper;
-import com.noe.service.WyTakeoverDataDetailService;
+import com.noe.service.base.WyTakeoverDataDetailService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

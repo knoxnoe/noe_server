@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.ZhCsHandleResult;
 import com.noe.mapper.ZhCsHandleResultMapper;
-import com.noe.service.ZhCsHandleResultService;
+import com.noe.service.base.ZhCsHandleResultService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

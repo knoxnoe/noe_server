@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.TblSysDiagrams;
 import com.noe.mapper.TblSysDiagramsMapper;
-import com.noe.service.TblSysDiagramsService;
+import com.noe.service.base.TblSysDiagramsService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

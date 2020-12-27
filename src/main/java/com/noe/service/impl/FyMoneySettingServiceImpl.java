@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.FyMoneySetting;
 import com.noe.mapper.FyMoneySettingMapper;
-import com.noe.service.FyMoneySettingService;
+import com.noe.service.base.FyMoneySettingService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

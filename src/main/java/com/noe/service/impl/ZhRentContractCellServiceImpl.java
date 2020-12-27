@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.ZhRentContractCell;
 import com.noe.mapper.ZhRentContractCellMapper;
-import com.noe.service.ZhRentContractCellService;
+import com.noe.service.base.ZhRentContractCellService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

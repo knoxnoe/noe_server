@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.TblComparyNotice;
 import com.noe.mapper.TblComparyNoticeMapper;
-import com.noe.service.TblComparyNoticeService;
+import com.noe.service.base.TblComparyNoticeService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

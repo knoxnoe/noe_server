@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.WyGreenSetting;
 import com.noe.mapper.WyGreenSettingMapper;
-import com.noe.service.WyGreenSettingService;
+import com.noe.service.base.WyGreenSettingService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

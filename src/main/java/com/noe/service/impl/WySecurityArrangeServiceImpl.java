@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.WySecurityArrange;
 import com.noe.mapper.WySecurityArrangeMapper;
-import com.noe.service.WySecurityArrangeService;
+import com.noe.service.base.WySecurityArrangeService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.TblCompanyRecord;
 import com.noe.mapper.TblCompanyRecordMapper;
-import com.noe.service.TblCompanyRecordService;
+import com.noe.service.base.TblCompanyRecordService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

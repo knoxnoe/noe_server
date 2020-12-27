@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.TblCustomType;
 import com.noe.mapper.TblCustomTypeMapper;
-import com.noe.service.TblCustomTypeService;
+import com.noe.service.base.TblCustomTypeService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.WyCleanPlan;
 import com.noe.mapper.WyCleanPlanMapper;
-import com.noe.service.WyCleanPlanService;
+import com.noe.service.base.WyCleanPlanService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

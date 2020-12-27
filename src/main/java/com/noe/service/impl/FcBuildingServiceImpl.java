@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.FcBuilding;
 import com.noe.mapper.FcBuildingMapper;
-import com.noe.service.FcBuildingService;
+import com.noe.service.base.FcBuildingService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

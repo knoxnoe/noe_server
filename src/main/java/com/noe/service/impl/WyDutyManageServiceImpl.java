@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.WyDutyManage;
 import com.noe.mapper.WyDutyManageMapper;
-import com.noe.service.WyDutyManageService;
+import com.noe.service.base.WyDutyManageService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.TblPrintParam;
 import com.noe.mapper.TblPrintParamMapper;
-import com.noe.service.TblPrintParamService;
+import com.noe.service.base.TblPrintParamService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

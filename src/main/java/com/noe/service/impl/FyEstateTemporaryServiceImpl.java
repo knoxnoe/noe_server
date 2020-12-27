@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.FyEstateTemporary;
 import com.noe.mapper.FyEstateTemporaryMapper;
-import com.noe.service.FyEstateTemporaryService;
+import com.noe.service.base.FyEstateTemporaryService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

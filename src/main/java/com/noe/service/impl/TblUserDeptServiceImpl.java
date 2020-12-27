@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.TblUserDept;
 import com.noe.mapper.TblUserDeptMapper;
-import com.noe.service.TblUserDeptService;
+import com.noe.service.base.TblUserDeptService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

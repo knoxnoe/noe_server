@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.FyReceiptMain;
 import com.noe.mapper.FyReceiptMainMapper;
-import com.noe.service.FyReceiptMainService;
+import com.noe.service.base.FyReceiptMainService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

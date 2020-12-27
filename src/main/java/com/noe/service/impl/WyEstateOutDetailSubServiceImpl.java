@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.WyEstateOutDetailSub;
 import com.noe.mapper.WyEstateOutDetailSubMapper;
-import com.noe.service.WyEstateOutDetailSubService;
+import com.noe.service.base.WyEstateOutDetailSubService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.TblDashboard;
 import com.noe.mapper.TblDashboardMapper;
-import com.noe.service.TblDashboardService;
+import com.noe.service.base.TblDashboardService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

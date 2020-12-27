@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.WyGreenCheck;
 import com.noe.mapper.WyGreenCheckMapper;
-import com.noe.service.WyGreenCheckService;
+import com.noe.service.base.WyGreenCheckService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.TblShortcutIcon;
 import com.noe.mapper.TblShortcutIconMapper;
-import com.noe.service.TblShortcutIconService;
+import com.noe.service.base.TblShortcutIconService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

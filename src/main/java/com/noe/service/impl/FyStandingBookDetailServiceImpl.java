@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.FyStandingBookDetail;
 import com.noe.mapper.FyStandingBookDetailMapper;
-import com.noe.service.FyStandingBookDetailService;
+import com.noe.service.base.FyStandingBookDetailService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.TblRole;
 import com.noe.mapper.TblRoleMapper;
-import com.noe.service.TblRoleService;
+import com.noe.service.base.TblRoleService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

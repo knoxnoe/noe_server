@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.TblDate;
 import com.noe.mapper.TblDateMapper;
-import com.noe.service.TblDateService;
+import com.noe.service.base.TblDateService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

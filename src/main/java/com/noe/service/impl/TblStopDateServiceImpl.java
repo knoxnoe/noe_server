@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.TblStopDate;
 import com.noe.mapper.TblStopDateMapper;
-import com.noe.service.TblStopDateService;
+import com.noe.service.base.TblStopDateService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

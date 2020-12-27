@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.ZhRentInformation;
 import com.noe.mapper.ZhRentInformationMapper;
-import com.noe.service.ZhRentInformationService;
+import com.noe.service.base.ZhRentInformationService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

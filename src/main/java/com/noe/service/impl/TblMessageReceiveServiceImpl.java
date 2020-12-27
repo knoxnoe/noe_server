@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.TblMessageReceive;
 import com.noe.mapper.TblMessageReceiveMapper;
-import com.noe.service.TblMessageReceiveService;
+import com.noe.service.base.TblMessageReceiveService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

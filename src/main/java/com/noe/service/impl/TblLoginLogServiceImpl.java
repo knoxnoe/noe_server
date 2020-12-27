@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.TblLoginLog;
 import com.noe.mapper.TblLoginLogMapper;
-import com.noe.service.TblLoginLogService;
+import com.noe.service.base.TblLoginLogService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

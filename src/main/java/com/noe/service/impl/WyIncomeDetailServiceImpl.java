@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.WyIncomeDetail;
 import com.noe.mapper.WyIncomeDetailMapper;
-import com.noe.service.WyIncomeDetailService;
+import com.noe.service.base.WyIncomeDetailService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

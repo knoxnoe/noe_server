@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.WyCommunityEvent;
 import com.noe.mapper.WyCommunityEventMapper;
-import com.noe.service.WyCommunityEventService;
+import com.noe.service.base.WyCommunityEventService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

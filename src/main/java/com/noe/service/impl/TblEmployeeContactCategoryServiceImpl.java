@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.TblEmployeeContactCategory;
 import com.noe.mapper.TblEmployeeContactCategoryMapper;
-import com.noe.service.TblEmployeeContactCategoryService;
+import com.noe.service.base.TblEmployeeContactCategoryService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.ZhCsHandleSpeed;
 import com.noe.mapper.ZhCsHandleSpeedMapper;
-import com.noe.service.ZhCsHandleSpeedService;
+import com.noe.service.base.ZhCsHandleSpeedService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

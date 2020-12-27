@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.WyOutProject;
 import com.noe.mapper.WyOutProjectMapper;
-import com.noe.service.WyOutProjectService;
+import com.noe.service.base.WyOutProjectService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.FyPropertyMoneyDist;
 import com.noe.mapper.FyPropertyMoneyDistMapper;
-import com.noe.service.FyPropertyMoneyDistService;
+import com.noe.service.base.FyPropertyMoneyDistService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

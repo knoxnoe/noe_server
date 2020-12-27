@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.WyCarSpaceRent;
 import com.noe.mapper.WyCarSpaceRentMapper;
-import com.noe.service.WyCarSpaceRentService;
+import com.noe.service.base.WyCarSpaceRentService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

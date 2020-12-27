@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.TblMydash;
 import com.noe.mapper.TblMydashMapper;
-import com.noe.service.TblMydashService;
+import com.noe.service.base.TblMydashService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

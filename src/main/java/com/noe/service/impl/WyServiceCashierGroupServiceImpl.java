@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.WyServiceCashierGroup;
 import com.noe.mapper.WyServiceCashierGroupMapper;
-import com.noe.service.WyServiceCashierGroupService;
+import com.noe.service.base.WyServiceCashierGroupService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

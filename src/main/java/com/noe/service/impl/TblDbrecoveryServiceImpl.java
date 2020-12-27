@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.TblDbrecovery;
 import com.noe.mapper.TblDbrecoveryMapper;
-import com.noe.service.TblDbrecoveryService;
+import com.noe.service.base.TblDbrecoveryService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

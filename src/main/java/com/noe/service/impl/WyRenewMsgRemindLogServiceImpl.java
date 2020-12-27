@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.WyRenewMsgRemindLog;
 import com.noe.mapper.WyRenewMsgRemindLogMapper;
-import com.noe.service.WyRenewMsgRemindLogService;
+import com.noe.service.base.WyRenewMsgRemindLogService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

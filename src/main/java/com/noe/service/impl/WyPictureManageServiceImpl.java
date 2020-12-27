@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.WyPictureManage;
 import com.noe.mapper.WyPictureManageMapper;
-import com.noe.service.WyPictureManageService;
+import com.noe.service.base.WyPictureManageService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

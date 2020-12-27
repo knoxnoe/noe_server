@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.WyCarManage;
 import com.noe.mapper.WyCarManageMapper;
-import com.noe.service.WyCarManageService;
+import com.noe.service.base.WyCarManageService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.TblColor;
 import com.noe.mapper.TblColorMapper;
-import com.noe.service.TblColorService;
+import com.noe.service.base.TblColorService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

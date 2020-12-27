@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.TblNetdiskDir;
 import com.noe.mapper.TblNetdiskDirMapper;
-import com.noe.service.TblNetdiskDirService;
+import com.noe.service.base.TblNetdiskDirService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

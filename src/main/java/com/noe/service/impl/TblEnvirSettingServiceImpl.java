@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.TblEnvirSetting;
 import com.noe.mapper.TblEnvirSettingMapper;
-import com.noe.service.TblEnvirSettingService;
+import com.noe.service.base.TblEnvirSettingService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

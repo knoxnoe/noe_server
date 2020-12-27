@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.FyPublicBox;
 import com.noe.mapper.FyPublicBoxMapper;
-import com.noe.service.FyPublicBoxService;
+import com.noe.service.base.FyPublicBoxService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

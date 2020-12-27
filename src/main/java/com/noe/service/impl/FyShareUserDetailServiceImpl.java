@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.FyShareUserDetail;
 import com.noe.mapper.FyShareUserDetailMapper;
-import com.noe.service.FyShareUserDetailService;
+import com.noe.service.base.FyShareUserDetailService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

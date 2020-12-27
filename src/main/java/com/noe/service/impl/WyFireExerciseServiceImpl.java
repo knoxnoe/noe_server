@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.WyFireExercise;
 import com.noe.mapper.WyFireExerciseMapper;
-import com.noe.service.WyFireExerciseService;
+import com.noe.service.base.WyFireExerciseService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.TblCommonLanguage;
 import com.noe.mapper.TblCommonLanguageMapper;
-import com.noe.service.TblCommonLanguageService;
+import com.noe.service.base.TblCommonLanguageService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

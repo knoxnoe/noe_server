@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.WyCleanRecord;
 import com.noe.mapper.WyCleanRecordMapper;
-import com.noe.service.WyCleanRecordService;
+import com.noe.service.base.WyCleanRecordService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

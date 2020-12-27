@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.FcEstate;
 import com.noe.mapper.FcEstateMapper;
-import com.noe.service.FcEstateService;
+import com.noe.service.base.FcEstateService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

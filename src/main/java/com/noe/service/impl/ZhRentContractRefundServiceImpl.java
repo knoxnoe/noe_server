@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.ZhRentContractRefund;
 import com.noe.mapper.ZhRentContractRefundMapper;
-import com.noe.service.ZhRentContractRefundService;
+import com.noe.service.base.ZhRentContractRefundService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

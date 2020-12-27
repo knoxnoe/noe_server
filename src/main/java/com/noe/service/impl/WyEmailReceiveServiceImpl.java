@@ -2,7 +2,7 @@ package com.noe.service.impl;
 
 import com.noe.bean.WyEmailReceive;
 import com.noe.mapper.WyEmailReceiveMapper;
-import com.noe.service.WyEmailReceiveService;
+import com.noe.service.base.WyEmailReceiveService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 
