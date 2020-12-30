@@ -1,6 +1,7 @@
 package com.noe.controller;
 
 import com.alibaba.fastjson.JSONObject;
+import com.noe.bean.FcEstate;
 import com.noe.bean.TblCompany;
 import com.noe.returnJson.ReturnObject;
 import com.noe.service.EstateService;
@@ -26,6 +27,14 @@ public class EstateController {
         List<TblCompany> Companies = estateService.selectCompany();
 
         return JSONObject.toJSONString(new ReturnObject(Companies));
+    }
+
+    @RequestMapping("/estate/insertEstate")
+    public String insertEstate(FcEstate fcEstate) {
+        Integer res = estateService.insertEstate(fcEstate);
+
+        System.out.println(res);
+        return "";
     }
 
 }
