@@ -17,6 +17,17 @@ public class ReturnObject {
         this.result = result;
     }
 
+    public ReturnObject(Integer code, String message, Object result) {
+        this.code = code;
+        this.message = message;
+        this.result = result;
+    }
+
+    public ReturnObject(Object result, String message) {
+        this.message = message;
+        this.result = result;
+    }
+
     @Override
     public String toString() {
         return "ReturnObject{" +

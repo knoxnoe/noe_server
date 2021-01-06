@@ -33,14 +33,14 @@ public class LoginController {
     @RequestMapping("/auth/login")
     public String login(@RequestParam("username") String username, @RequestParam("password") String password, HttpSession session) {
 
-        System.out.println(username);
-        System.out.println(password);
+//        System.out.println(username);
+//        System.out.println(password);
         TblUserRecord tblUserRecord = loginService.login(username, password);
         tblUserRecord.setToken(tblUserRecord.getUserName());
 
         // 将用户数据写入到session
         session.setAttribute("userRecord", tblUserRecord);
-        System.out.println(tblUserRecord.toString());
+        System.out.println("LoginController.java login"+tblUserRecord.toString());
 
         ReturnObject returnObject = new ReturnObject(tblUserRecord);
         return JSONObject.toJSONString(returnObject);
